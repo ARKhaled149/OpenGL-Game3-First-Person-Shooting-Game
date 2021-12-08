@@ -1,0 +1,32 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.10.2019 20:09:54
+
+newmtl SciFi_Base_Pack01
+	Ns 17.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.2353 0.2275
+	Kd 0.1922 0.2353 0.2275
+	Ks 0.0270 0.0270 0.0270
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\user\Desktop\SCI-FI Defence Tower\Textures\SciFi_Base-MK-Pack01_Diffuse.jpg
+	map_Kd C:\Users\user\Desktop\SCI-FI Defence Tower\Textures\SciFi_Base-MK-Pack01_Diffuse.jpg
+	map_bump -bm 0.2000 Map__5_Normal_Bump.tga
+
+newmtl SciFi_Base_Pack01_Lights
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.2353 0.2275
+	Kd 0.1922 0.2353 0.2275
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\user\Desktop\SCI-FI Defence Tower\Textures\SciFi_Base-MK-Pack01_Diffuse.jpg
+	map_Kd C:\Users\user\Desktop\SCI-FI Defence Tower\Textures\SciFi_Base-MK-Pack01_Diffuse.jpg
+	map_Ke C:\Users\user\Desktop\SCI-FI Defence Tower\Textures\SciFi_Base-MK-Pack01_lights.jpg

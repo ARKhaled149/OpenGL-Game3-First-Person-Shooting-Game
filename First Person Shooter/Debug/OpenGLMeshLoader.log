@@ -1,0 +1,9 @@
+﻿  OpenGLMeshLoader19.cpp
+D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\OpenGLMeshLoader19.cpp(1570,30): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\OpenGLMeshLoader19.cpp(1570,32): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\OpenGLMeshLoader19.cpp(1577,25): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\OpenGLMeshLoader19.cpp(1577,27): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> D:\User Documents\Desktop\GAME (3) FPS\First Person Shooter\Debug\OpenGLMeshLoader19.exe
